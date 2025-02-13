@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+}
+.matn{
+    border-radius: 20px;
+    position: absolute;
+    left: 400px;
+    top: 150px;
+}
+.matn-2{
+    background-color: darkcyan;
+    height: 300px;
+    color: white;
+    margin: 200px auto;
+}

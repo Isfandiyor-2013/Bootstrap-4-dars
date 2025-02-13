@@ -1,0 +1,24 @@
+.bgdanger{
+    background-color: red;
+    color: white;
+    width: 250px;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    margin-right: 120px;
+}
+.matn{
+    margin-left: 250px;
+    margin: 50px 250px;
+    text-align: center !important;
+}
+.matn-3{
+    background-color: blue;
+    color: white;
+}
+.bt{
+    margin-left: 400px;
+}
+.matn-5{
+    text-align: center !important;
+}
